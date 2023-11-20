@@ -12,5 +12,5 @@ Este projeto é uma aplicação simples de cronômetro para dispositivos Android
 ## Instruções de Instalação
 
 1. Clone o repositório para sua máquina local.
-   ```bash
-git clone https://github.com/CarlosAlbertoSiqueira/ProjetoPE1
+   ```bash git clone https://github.com/CarlosAlbertoSiqueira/ProjetoPE1
+
